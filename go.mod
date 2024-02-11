@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/duggym122/my-resume
 
 go 1.19
 

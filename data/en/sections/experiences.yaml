@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,54 +11,39 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Spectrum (Charter Communications)
+    url: "https://www.spectrum.com"
+    location: Denver, CO
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Charter Communications, Inc. is a leading broadband connectivity company and cable operator serving more than 32 million customers in 41 states through its Spectrum brand. Over an advanced communications network, the company offers a full range of state-of-the-art residential and business services including Spectrum Internet®, TV, Mobile and Voice.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Senior Manager, Data Platforms Orchestration
+    start: Sep 2022
+    # end: 
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - I make certain my team’s workload and priorities are appropriately distributed, and that the team has a full understanding of the business and architecture vision
+    - I act as the representative for the product vision when working with my team, and I advocate for the best engineering solution when working with the product team, always striving to accomplish what product needs in line with engineering best practices and the recommendations of my principal, lead, and senior engineer
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Lead Software Delivery Manager
+    start: Nov 2021
+    end: Sep 2022
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - I converted from contractor to full time in 2021, continuing my existing role, after working with Charter as a contractor starting in the fall of 2013
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Kenzan (Now Sourced Group, An Amdocs Company)
+    url: "https://www.sourcedgroup.com/"
+    location: Denver, CO
+    overview: Sourced provides “customer-centric” consulting services to migrate and govern large-scale enterprise IT systems to the cloud. With over a decade of delivering successful large scale cloud transformation programs, our client list is filled with household names in the worlds of finance, media, transport, healthcare and telecommunications.
   positions:
+  - designation: Senior Agile Solutions Professional
+    end: Nov 2021
+    start: May 2015
+    responsibilities:
+    - As a Senior ASP, I acted as the scrum master, project and program manager, agile coach, and business analyst for my team to manage our planning through the product and software life cycles from new project setup through deployment and production operations support
+
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: May 2013
+    end: May 2015
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - I maintained development roadmaps, release plans, and sprint plans down to the epic and story level, ensuring that my team remained on time, on spec, and on budget while maximizing value to our clients

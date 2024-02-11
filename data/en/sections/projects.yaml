@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -16,49 +16,57 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: EBB/ACP Program Development
+  logo: /images/sections/projects/spectrum.png
+  role: Senior Manager, Development Team
+  timeline: "2021 - Present"
+  url: "https://www.fcc.gov/acp"
+  summary: I led the team responsible for integrating and adapting our existing no-code platform, used for building forms to replace paper or PDF forms, to collect customer submissions to apply for the EBB, and later ACP, program. 
+  tags: ["professional", "spectrum", "microservices", "cloud-native", "federal program", "compliance"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Push Notifications for The My Spectrum App
+  logo: /images/sections/projects/spectrum.png
+  role: Senior Manager, Development Team
+  timeline: "2020 - Present"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.spectrum.net/page/my-spectrum-app"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: My team owns the platform that orchestrates data from across the entire company and translates those messages into push notifications that are then sent to customer devices to keep them informed on their billing, technician service appointments, service disruptions, and changes to their home networks
+  tags: ["professional", "spectrum", "microservices", "cloud-native", "push notifications"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: California Consumer Privacy Act (CCPA)
+  logo: /images/sections/projects/spectrum.png
+  role: Senior Agile Solutions Professional
+  timeline: "2018 - 2020"
+  url: "https://oag.ca.gov/privacy/ccpa"
+  summary: I acted as the delivery manager for the team responsible for building the API integrations necessary for customers to authenticate their identity, submit verfication documentation, and generate a request pertaining to their personal data in compliance with CCPA.
+  tags: ["professional", "spectrum", "microservices", "cloud-native", "state program", "compliance"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Flexible, Cloud-Based, Application Platform
+  logo: /images/sections/projects/clarivate.svg
+  role: Senior Agile Solutions Professional
+  timeline: "2015 - 2017"
+  url: "https://clarivate.com/"
+  summary: I acted as the project manager, program manager, and delivery manager for the team responsible for architecting, building, testing, and deploying a cloud-based platform designed to provide infrastructure for deployment and hosting of microservices, customer-facing web portals, and the databases and other near-infrastructure components needed to keep those services running and available to customers.
+  tags: ["professional", "clarivate", "microservices", "cloud-native", "platform"]
+
+- name: Content Management System for User Portals
+  logo: /images/sections/projects/spectrum.png
+  role: Senior Manager, Development Team
+  timeline: "2013 - Present"
+  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.spectrum.net/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: In my tenure with Charter, I have spent the majority of my time working on the content management system serving our customer portals and the MySpectrum app, providing all of the support articles, banners, and vanity URLs, among other content.
+  tags: ["professional", "spectrum", "microservices", "cloud-native"]
+
+- name: Drone with ML-Powered Object Recognition
+  logo: /images/sections/projects/weka.png
+  role: Student
+  timeline: "2012 - 2013"
+  repo: https://code.google.com/archive/p/aries-project/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: "https://www.spectrum.net/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Project ARIES is a remotely operated drone with object-recognizing visual search software designed to work with the commercially available Parrot AR.Drone.
+  tags: ["academic", "machine learning", "WEKA"]
