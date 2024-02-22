@@ -27,7 +27,7 @@ projects:
   role: Senior Manager, Development Team
   timeline: "2021 - Present"
   url: "https://www.fcc.gov/acp"
-  summary: I led the team responsible for integrating and adapting our existing no-code platform, used for building forms to replace paper or PDF forms, to collect customer submissions to apply for the EBB, and later ACP, program. 
+  summary: I led the team responsible for integrating and adapting our form-submission platform to collect customer submissions to apply for the EBB, and later ACP, program. 
   tags: ["professional", "spectrum", "microservices", "cloud-native", "federal program", "compliance"]
 
 - name: Push Notifications for The My Spectrum App
@@ -44,7 +44,7 @@ projects:
   role: Senior Agile Solutions Professional
   timeline: "2018 - 2020"
   url: "https://oag.ca.gov/privacy/ccpa"
-  summary: I acted as the delivery manager for the team responsible for building the API integrations necessary for customers to authenticate their identity, submit verfication documentation, and generate a request pertaining to their personal data in compliance with CCPA.
+  summary: I acted as the delivery manager for the team responsible for building the API integrations necessary for customers to generate a request pertaining to their personal data in compliance with CCPA.
   tags: ["professional", "spectrum", "microservices", "cloud-native", "state program", "compliance"]
 
 - name: Flexible, Cloud-Based, Application Platform
@@ -61,7 +61,7 @@ projects:
   timeline: "2013 - Present"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.spectrum.net/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: In my tenure with Charter, I have spent the majority of my time working on the content management system serving our customer portals and the MySpectrum app, providing all of the support articles, banners, and vanity URLs, among other content.
+  summary: In my tenure with Charter, I have spent the majority of my time working on the content management system serving our customer portals and the MySpectrum app.
   tags: ["professional", "spectrum", "microservices", "cloud-native"]
 
 - name: Drone with ML-Powered Object Recognition
