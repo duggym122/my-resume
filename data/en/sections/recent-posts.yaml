@@ -1,10 +1,10 @@
 # section information
 section:
-  name: Recent Posts
+  name: Blog Posts
   id: recent-posts
   enable: true
   weight: 10
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 

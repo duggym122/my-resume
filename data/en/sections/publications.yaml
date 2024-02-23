@@ -21,12 +21,12 @@ publications:
   publishedIn:
     name: Kenzan + Sourced on Medium
     date: 3 October 2016
-    url: https://kenzanmedia.medium.com/
+    url: https://kenzanmedia.medium.com/a-project-managers-guide-to-time-management-e48105a59a1f
   authors:
   - name: Doug Melvin
     #url: https://1.2.3.4
   paper:
     summary: Working between multiple internal and client teams, our PM/BA’s plan, consult, organize, communicate and manage a vast amount of resources and information each day. To make sure projects are meeting deadlines and teams are communicating effectively, time management and prioritization are key.
-    url: https://kenzanmedia.medium.com/a-project-managers-guide-to-time-management-e48105a59a1f
+    url: /posts/soft-skills/how-to-become-a-master-of-time/
   categories: ["time-management", "best-practices"]
   tags: ["Time Management", "Prioritization", "Best Practices"]
