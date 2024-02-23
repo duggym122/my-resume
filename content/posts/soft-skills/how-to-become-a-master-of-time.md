@@ -35,7 +35,7 @@ Created in the late 1980’s by Francesco Cirillo, the approach divides each day
 There are even some tools to help keep you on track. This [Google Chrome extension](https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd) blocks websites until it’s time for a break.
 
 {{< vs 3 >}}
-{{< img src="/images/posts/pomodoro-timer.webp" width=300 align=center title="The Pomodoro Technique was named after the Italian word for tomato. Its creator, Francesco Cirillo, was inspired by his kitchen timer, shaped like a tomato." >}}
+{{< img src="/images/posts/pomodoro-timer.jpg" width=300 align=center title="The Pomodoro Technique was named after the Italian word for tomato. Its creator, Francesco Cirillo, was inspired by his kitchen timer, shaped like a tomato." >}}
 {{< vs 3 >}}
 
 The Pomodoro Technique was named after the Italian word for tomato. It’s creator, Francesco Cirillo, was inspired by his kitchen timer, shaped like a tomato.
