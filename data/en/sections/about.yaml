@@ -39,9 +39,9 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Resumé"
   url: "files/resume.pdf"
-- title: "My CliftonStrengths Report"
+- title: "CliftonStrengths Report"
   url: "files/CliftonStrengths.pdf"
 
 # Show your badges
