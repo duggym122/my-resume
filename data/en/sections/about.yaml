@@ -41,8 +41,10 @@ socialLinks:
 resourceLinks:
 - title: "Resumé"
   url: "files/resume.pdf"
-- title: "CliftonStrengths Report"
+- title: "CliftonStrengths"
   url: "files/CliftonStrengths.pdf"
+- title: "Insights Discovery"
+  url: "files/Insights.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
