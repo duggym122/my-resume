@@ -45,16 +45,13 @@ resourceLinks:
   url: "files/CliftonStrengths.pdf"
 - title: "Insights Discovery"
   url: "files/Insights.pdf"
+- title: "DISC"
+  url: "files/DISC.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: PMI Professional in Business Analysis (PMI-PBA)
-  url: "https://www.credly.com/badges/8d1417c8-3e57-4030-8d6d-043acd9f9208/public_url"
-  badge: "https://images.credly.com/size/340x340/images/80579132-751c-4c54-a047-5478592a22dc/pmi-pba-600px.png"
-
 - type: certification
   name: PMI Agile Certified Practitioner (PMI-ACP)
   url: "https://www.credly.com/badges/1d16dc76-f001-41bb-b493-c25d2cba5a0f/public_url"

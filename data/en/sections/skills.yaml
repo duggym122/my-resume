@@ -21,14 +21,13 @@ skills:
   summary: "Experienced user of Confluence and comfortable administrator of spaces within Confluence. I am passionate about properly organized team spaces and software, as well as process/practice, documentation."
   url: "https://www.atlassian.com/software/confluence"
 
-#- name: Cloud Computing
-  #logo: /images/sections/skills/cloud.png
-  #summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Drupal CMS/Acquia Cloud
+  logo: /images/sections/skills/drupal.svg
+  summary: "I have managed my team's work over the last 11 years, becoming a proficient user of our Drupal CMS, and deeply knowledgeable of the proprietary solutions we've built. This has allowed me to assist our stakeholders in defining new features and using existing capabilities to solve new problems, and to assist my team in designing sensible solutions that maximize the impact of our engineering effort."
 
-#- name: Docker
-  #logo: /images/sections/skills/docker.svg
-  #summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  #url: "https://www.docker.com/"
+- name: Apollo Studio
+  logo: /images/sections/skills/apollo-graphql.svg
+  summary: "Comfortable user of Apollo Studio, I often assist teams that consume our APIs build and inspect queries to aid their feature development, and troubleshoot any reported issues by directly testing our API in the Apollo UI. I also frequently check usage data via the Insights menu when we're making breaking changes or decommissioning old functionality, so that we can be sure we don't cause any disruption in our live production environment."
 
 #- name: Prometheus
   #logo: /images/sections/skills/prometheus.png
