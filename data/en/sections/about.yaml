@@ -24,28 +24,20 @@ summary: 'I am an engineering manager and highly experienced project manager, bu
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-#- name: Email
-  #icon: "fas fa-envelope"
-  #url: "dmelvin122@gmail.com"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/douglasmelvin"
-
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/duggym122"
+- name: Contact Info
+  icon: "fa-solid fa-address-card"
+  url: "https://mycard.dougmelvin.me"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Resumé"
+- title: "Résumé"
   url: "files/resume.pdf"
-- title: "CliftonStrengths"
+- title: "CliftonStrengths Profile"
   url: "files/CliftonStrengths.pdf"
-- title: "Insights Discovery"
+- title: "Insights Profile"
   url: "files/Insights.pdf"
-- title: "DISC"
+- title: "DiSC Profile"
   url: "files/DISC.pdf"
 
 # Show your badges
@@ -53,9 +45,9 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: PMI Agile Certified Practitioner (PMI-ACP)
-  url: "https://www.credly.com/badges/1d16dc76-f001-41bb-b493-c25d2cba5a0f/public_url"
-  badge: "https://images.credly.com/size/340x340/images/60de4761-84eb-4d9f-a6bc-c290c2e65985/pmi-acp-600px.png"
+  name: Project Management Institute - Agile Certified Practitioner
+  url: "https://www.credly.com/badges/3eafdc4a-7181-4bf4-a51e-c836c20e6a57/public_url"
+  badge: "https://images.credly.com/images/884f1605-f439-4b0d-ba7c-76a921266d45/blob"
 
 - type: soft-skill-indicator
   name: Requirement Gathering
