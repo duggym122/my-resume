@@ -24,6 +24,18 @@ summary: 'I am an engineering manager and highly experienced project manager, bu
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: LinkedIn
+  icon: "fa-brands fa-linkedin"
+  url: "https://github.com/duggym122"
+  
+- name: Bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/dougmelvin.me"
+
+- name: GitHub
+  icon: "fa-brands fa-github"
+  url: "https://github.com/duggym122"
+  
 - name: Contact Info
   icon: "fa-solid fa-address-card"
   url: "https://mycard.dougmelvin.me"
@@ -51,23 +63,43 @@ badges:
 
 - type: soft-skill-indicator
   name: Requirement Gathering
-  percentage: 95
+  percentage: 100
   color: "#4ABFAF"
 
 - type: soft-skill-indicator
-  name: Stakeholder Management
-  percentage: 95
+  name: Business Analysis
+  percentage: 100
   color: "#B52B2A"
 
 - type: soft-skill-indicator
-  name: Business Analysis
-  percentage: 85
+  name: Project/Program Management
+  percentage: 95
   color: "#08635E"
 
 - type: soft-skill-indicator
-  name: Project/Program Management
+  name: Stakeholder Management
   percentage: 90
   color: "#0095C9"
+
+- type: soft-skill-indicator
+  name: Engineering Management
+  percentage: 85
+  color: "#4ABFAF"
+
+# - type: soft-skill-indicator
+  # name: 
+  # percentage: 
+  # color: "#B52B2A"
+
+# - type: soft-skill-indicator
+  # name: 
+  # percentage: 
+  # color: "#08635E"
+
+# - type: soft-skill-indicator
+  # name: 
+  # percentage: 
+  # color: "#0095C9"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
