@@ -17,6 +17,31 @@ module:
   - source: ./node_modules/katex/dist/fonts
     target: static/fonts
 
+# Manage caching
+# added 20250415
+caches:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: -1
+  getcsv:
+    dir: :cacheDir/:project
+    maxAge: -1
+  getjson:
+    dir: :cacheDir/:project
+    maxAge: -1
+  getresource:
+    dir: :cacheDir/:project
+    maxAge: -1
+  images:
+    dir: :resourceDir/_gen
+    maxAge: -1
+  misc:
+    dir: :cacheDir/:project
+    maxAge: -1
+  modules:
+    dir: :cacheDir/modules
+    maxAge: -1
+
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
